@@ -2,11 +2,14 @@
     Paul Airuehia
     101219909
 
+### Table Creation SQL:
+    SQL code is contained in: dml.sql
+
 This project includes two source files, JDBCConnection and Main. The JDBCConnection class is responsible for connecting
 to the database. The Main class contains and tests the requested methods in the main method.
 
 ### Compilation and Execution:
-    Two Methods of Compilation and Execution are provided below:
+Two Methods of Compilation and Execution are provided below:
 
 #### First: Using an IDE
     1. Open the project in the IDE - IntelliJ IDEA.
