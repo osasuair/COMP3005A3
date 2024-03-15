@@ -12,7 +12,7 @@ to the database. The Main class contains and tests the requested methods in the 
 Two Methods of Compilation and Execution are provided below:
 
 #### First: Using an IDE
-    1. Open the project in the IDE - IntelliJ IDEA.
+    1. Open the project in an IDE - IntelliJ IDEA.
     2. Run the Main class.
 
 #### Second: Using the Terminal
@@ -23,4 +23,4 @@ Two Methods of Compilation and Execution are provided below:
 
 The program will output the results of the methods in the Main class.
 
-Video URL: 
+Video URL: https://www.youtube.com/watch?v=ztWI-RXmoSw
